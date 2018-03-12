@@ -45,6 +45,10 @@ h1.page-title .secondary-darker a {
     font-size: 36px
 }
 
+h1.name {
+    text-align: left;
+}
+
 h1.big-title {
     font-size: 56px;
     line-height: 52px;
